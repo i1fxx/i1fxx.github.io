@@ -1,0 +1,14 @@
+{
+  "name": "Code | QR Generator",
+  "short_name": "Code",
+  "icons": [{
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+}],
+  "start_url": "/app?id=18",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFEB3B",
+  "theme_color": "#FFEB3B"
+}
