@@ -1,0 +1,41 @@
+{
+  "background_color":"#ffffff",
+  "categories":[
+     "social",
+     "news",
+     "magazines"
+  ],
+  "description":"Читайте свежайшие новости о политике, музыке, мировых событиях, спорте и многом другом, используя при этом меньше трафика.",
+  "display":"standalone",
+  "gcm_sender_id":"49625052041",
+  "gcm_user_visible_only":true,
+  "icons":[
+     {
+        "src":"icon-default.ee534d88.png",
+        "sizes":"192x192",
+        "type":"image/png"
+     },
+     {
+        "src":"logo.png",
+        "sizes":"512x512",
+        "type":"image/png"
+     }
+  ],
+  "name":"Twitter",
+  "short_name":"Twitter",
+  "start_url":"/app/ae2bb110?status='redirect'",
+  "scope":"/app/ae2bb110",
+  "theme_color":"#ffffff",
+  "prefer_related_applications":true,
+  "related_applications":[
+     {
+        "id":"com.twitter.android",
+        "platform":"chromeos_play",
+        "url":"https://play.google.com/store/apps/details?id=com.twitter.android"
+     }
+  ],
+  "launch_handler":{
+     "route_to":"existing-client",
+     "navigate_existing_client":"never"
+  }
+}
