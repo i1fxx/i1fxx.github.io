@@ -4,8 +4,13 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
+<<<<<<< HEAD
   "scope": "./",
   "start_url": "/index.html",
+=======
+  "start_url": "/",
+  "scope": "/",
+>>>>>>> master
   "icons": [
      {
         "src": "assets/icons/icon-48x48.png",
