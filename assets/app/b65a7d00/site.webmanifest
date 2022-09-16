@@ -54,5 +54,9 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
-    "gcm_sender_id": "122867383838"
+    "gcm_sender_id": "122867383838",
+    "related_applications": [{
+        "platform": "webapp",
+        "url": "http://localhost:3000/app/b65a7d00/site.webmanifest"
+    }]
 }
