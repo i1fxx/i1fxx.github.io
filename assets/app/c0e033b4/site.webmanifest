@@ -16,7 +16,7 @@
     ],
     "start_url": "/app/c0e033b4?status='redirect'",
     "scope": "/app/c0e033b4",
-    "display": "minimal-ui",
+    "display": "standalone",
     "background_color": "#FF5500",
     "theme_color": "#FF5500"
   }

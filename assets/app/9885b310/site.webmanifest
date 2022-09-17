@@ -2,7 +2,7 @@
   "name":"YouTube",
   "short_name":"YouTube",
   "background_color":"#FFFFFF",
-  "display":"minimal-ui",
+  "display":"standalone",
   "start_url":"/app/9885b310?status='redirect'",
   "scope":"/app/9885b310",
   "icons":[
@@ -27,8 +27,5 @@
   "theme_color":"#FF0000",
   "gcm_sender_id":"402845223712",
   "gcm_user_visible_only":true,
-  "related_applications":[
-     
-  ],
   "capture_links":"none"
 }
