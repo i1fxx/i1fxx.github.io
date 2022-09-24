@@ -1,9 +1,0 @@
-{
-  "name": "PwaBox",
-  "short_name": "PB",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
-  "display": "standalone",
-  "start_url": "/",
-  "scope": "/"
-}
