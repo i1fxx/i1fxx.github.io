@@ -20,5 +20,5 @@
     "scope" : "/app/29c1e010",
     "background_color": "#424242",
     "theme_color": "#fed049",
-    "display": "standalone"
+    "display": "minimal-ui"
   }

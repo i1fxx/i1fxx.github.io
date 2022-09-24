@@ -2,7 +2,7 @@
     "background_color": "#ffffff",
     "description": "Gamejam Calculus game!",
     "dir": "auto",
-    "display": "standalone",
+    "display": "minimal-ui",
     "lang": "en",
     "name": "Problemon",
     "orientation": "portrait",

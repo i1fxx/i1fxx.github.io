@@ -15,7 +15,7 @@
     ],
     "start_url":"/app/eaed47d0?status='redirect'",
     "scope":"/app/eaed47d0",
-    "display":"standalone",
+    "display": "minimal-ui",
     "orientation":"portrait",
     "theme_color":"#00A862",
     "background_color":"#FFFFFF",

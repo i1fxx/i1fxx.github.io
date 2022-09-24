@@ -3,7 +3,7 @@
   "short_name": "Stashany",
   "theme_color": "#333639",
   "background_color": "#333639",
-  "display": "standalone",
+  "display": "minimal-ui",
   "scope": "/app/ba03c400",
   "start_url": "/app/ba03c400?status='redirect'",
   "icons": [

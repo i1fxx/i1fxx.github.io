@@ -16,6 +16,6 @@
     ],
     "start_url": "/app/518ec112?status='redirect'",
     "scope" : "/app/518ec112",
-    "display":"standalone",
+    "display": "minimal-ui",
     "background_color":"#000000"
 }

@@ -53,7 +53,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone",
+    "display": "minimal-ui",
     "gcm_sender_id": "122867383838",
     "related_applications": [{
         "platform": "webapp",

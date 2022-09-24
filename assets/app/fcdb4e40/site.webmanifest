@@ -15,6 +15,6 @@
   "scope" : "/app/fcdb4e40",
   "background_color": "#F95240",
   "theme_color": "#F95240",
-  "display": "standalone",
+  "display": "minimal-ui",
   "orientation": "portrait"
 }

@@ -2,7 +2,7 @@
     "short_name": "QR Scanner",
     "name": "QR Code Scanner",
     "description": "Easily scan a QR code. This is a simple, tiny, and super fast web application that works offline.",
-    "display": "standalone",
+    "display": "minimal-ui",
     "orientation": "portrait",
     "icons": [
       {

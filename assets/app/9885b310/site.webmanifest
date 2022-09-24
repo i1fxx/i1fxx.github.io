@@ -2,7 +2,7 @@
   "name":"YouTube",
   "short_name":"YouTube",
   "background_color":"#FFFFFF",
-  "display":"standalone",
+  "display": "minimal-ui",
   "start_url":"/app/9885b310?status='redirect'",
   "scope":"/app/9885b310",
   "icons":[

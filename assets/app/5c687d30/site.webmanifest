@@ -8,7 +8,7 @@
     ],
     "start_url": "/app/5c687d30?status='redirect'",
     "scope" : "/app/5c687d30",
-    "display": "standalone",
+    "display": "minimal-ui",
     "orientation": "portrait",
     "background_color": "#fff",
     "theme_color": "#fff",

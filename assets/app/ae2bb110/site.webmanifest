@@ -6,7 +6,7 @@
      "magazines"
   ],
   "description":"Читайте свежайшие новости о политике, музыке, мировых событиях, спорте и многом другом, используя при этом меньше трафика.",
-  "display":"standalone",
+  "display": "minimal-ui",
   "gcm_sender_id":"49625052041",
   "gcm_user_visible_only":true,
   "icons":[

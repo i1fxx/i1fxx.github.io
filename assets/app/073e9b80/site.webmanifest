@@ -3,7 +3,7 @@
     "short_name":"Dino Game",
     "start_url":"/app/073e9b80?status='redirect'",
     "scope":"/app/073e9b80",
-    "display":"standalone",
+    "display": "minimal-ui",
     "icons":[
     {
     "src":"android-chrome-36x36.adb36c3b.png",
