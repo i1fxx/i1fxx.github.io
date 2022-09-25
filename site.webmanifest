@@ -1,0 +1,21 @@
+{
+  "name": "PwaBox",
+  "short_name": "PB",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "minimal-ui",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa"
+  }

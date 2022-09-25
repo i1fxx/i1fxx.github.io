@@ -1,0 +1,20 @@
+{
+  "short_name": "Tower Game",
+  "name": "Tower Game",
+  "description": "Stack blocks and build the tallest tower!",
+  "icons": [{
+    "src": "icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"},
+    {
+    "src": "logo.png",
+    "sizes": "512x512",
+    "type": "image/png"}
+  ],
+  "start_url": "/app/fcdb4e40?status='redirect'",
+  "scope" : "/app/fcdb4e40",
+  "background_color": "#F95240",
+  "theme_color": "#F95240",
+  "display": "minimal-ui",
+  "orientation": "portrait"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SlangFriend",
+  "short_name": "SlangFriend",
+  "start_url": "/app/0dae4060?status='redirect'",
+  "scope": "/app/0dae4060",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "minimal-ui",
+  "theme_color": "#116AB8",
+  "background_color": "#f7f7f7"
+  }
