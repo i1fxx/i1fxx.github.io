@@ -1,0 +1,23 @@
+{
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "TikTok",
+  "short_name": "TikTok",
+  "orientation": "portrait",
+  "display": "minimal-ui",
+  "start_url": "/app/f96c7728?status='redirect'",
+  "scope" : "/app/f96c7728",
+  "description": "TikTok PWA",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
